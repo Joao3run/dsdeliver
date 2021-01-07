@@ -12,9 +12,11 @@ import java.util.Set;
 @Entity
 @Table(name = "tb_order")
 public class Order implements Serializable {
+
     /*
-      @author BRUN on 06/01/2021
-    */
+     * @author BRUN on 06/01/2021
+     */
+
     private static final long serialVersionUID = 1L;
 
     @Id

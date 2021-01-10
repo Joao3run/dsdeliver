@@ -50,7 +50,6 @@ const OrderLocation = ({onChangeLocation}: Props) => {
     };
 
     const successLocalization = (position: any) => {
-        console.log('-->', position)
         const updatedAddress: any = {
             position: {
                 lat:position.coords.latitude,
@@ -70,7 +69,7 @@ const OrderLocation = ({onChangeLocation}: Props) => {
         }
 
     })
-    console.log('-->', address)
+
     return (
         <div className="order-location-container">
             <div className="order-location-content">

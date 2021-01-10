@@ -3,7 +3,7 @@ import React from 'react';
 const StepsHeader = () => {
     return (
         <header className="orders-steps-container">
-            <div className="orders-content">
+            <div className="orders-steps-content">
                 <h1 className="steps-title">
                     Siga as <br/> etapas
                 </h1>

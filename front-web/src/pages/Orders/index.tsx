@@ -50,7 +50,7 @@ const Orders = () => {
         fetchProduct()
             .then((resp) => setProducts(resp.data))
             .catch((err) => toast.warning('Erro ao enviar pedido')
-    )
+            )
     }, [])
     return (
         <>

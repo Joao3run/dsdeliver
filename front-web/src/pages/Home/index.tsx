@@ -1,7 +1,7 @@
 import React from 'react';
-import './styles.css'
-import { ReactComponent as MainImage } from '../../assets/img/main.svg'
-import Footer from "../../componentes/Footer";
+import './styles.css';
+import { ReactComponent as MainImage } from '../../assets/img/main.svg';
+import Footer from '../../componentes/Footer';
 import { Link } from 'react-router-dom';
 
 const Home = () => {

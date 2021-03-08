@@ -45,7 +45,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/mateusjose98/sds2
+git clone https://github.com/Joao3run/dsdeliver
 # entrar na pasta do projeto backend
 cd backend
 # instalar dependências
@@ -60,7 +60,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone (LINK DO MEU REPO)
+git clone https://github.com/Joao3run/dsdeliver
 # entrar na pasta frontend-web
 cd front-web
 # instalar dependências
